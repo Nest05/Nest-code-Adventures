@@ -1,0 +1,25 @@
+/* Learning how to spice up a button */
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 6px;
+    text-decoration: none;
+}
+div{
+    float: left;
+    text-align: center;
+    width: 25%;
+  }
+p {
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
